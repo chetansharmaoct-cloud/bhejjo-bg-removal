@@ -1,4 +1,4 @@
-rembg==2.0.57
+rembg[gpu]==2.0.50
 Flask==3.0.0
 Flask-CORS==4.0.0
 Pillow==10.1.0
